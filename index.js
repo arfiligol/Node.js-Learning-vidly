@@ -1,6 +1,3 @@
-// The validate module
-// const Joi = require('joi');
-
 // The route middlewares
 const genres = require("./routes/genres");
 const customers = require("./routes/customers");

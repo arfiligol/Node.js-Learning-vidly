@@ -1,4 +1,4 @@
-const Joi = require("joi");
+const Joi = require("joi"); // The module for validate data
 const mongoose = require("mongoose");
 
 const Customer = mongoose.model(
