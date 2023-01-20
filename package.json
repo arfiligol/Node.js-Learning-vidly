@@ -1,0 +1,25 @@
+{
+  "name": "node.js-learning-vidly",
+  "version": "1.0.0",
+  "description": "Vidly is the practice project of Node.js-Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arfiligol/Node.js-Learning-vidly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arfiligol/Node.js-Learning-vidly/issues"
+  },
+  "homepage": "https://github.com/arfiligol/Node.js-Learning-vidly#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.7.0",
+    "mongoose": "^6.8.4"
+  }
+}
